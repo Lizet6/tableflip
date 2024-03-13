@@ -1,5 +1,5 @@
-[soft2i
 # Graceful process restarts in Go
+
 [![](https://godoc.org/github.com/cloudflare/tableflip?status.svg)](https://godoc.org/github.com/cloudflare/tableflip)
 
 It is sometimes useful to update the running code and / or configuration of a
